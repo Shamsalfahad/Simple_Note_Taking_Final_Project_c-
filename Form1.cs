@@ -72,5 +72,11 @@ namespace NoteTaking
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 f1 = new Form3();
+            f1.Show();
+        }
     }
 }

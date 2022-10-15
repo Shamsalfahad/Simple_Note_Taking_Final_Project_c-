@@ -9,3 +9,7 @@ C:\Users\User\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.Gen
 C:\Users\User\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.exe
 C:\Users\User\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.pdb
+C:\Users\User\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Form2.resources
+C:\Users\User\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Form3.resources
+C:\Users\User\source\repos\NoteTaking\NoteTaking\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\NoteTaking\NoteTaking\bin\Debug\Database1_log.ldf
