@@ -77,6 +77,7 @@ namespace NoteTaking
         {
             Form3 f1 = new Form3();
             f1.Show();
+            Hide();
         }
     }
 }
